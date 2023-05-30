@@ -1,5 +1,5 @@
 import 'package:expanse_app/constants.dart';
-import 'package:expanse_app/screens/home/user_onboard/home_page.dart';
+import 'package:expanse_app/screens/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
